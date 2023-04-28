@@ -31,6 +31,10 @@ Tools used: VS Code!
 ## Getting Started with Create React App
 #This project was bootstrapped with [Create React App]
 
+> Get the code
+
+git clone 
+
 ## Project setup
 ```
 yarn create react-app my-app
