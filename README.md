@@ -8,7 +8,7 @@ https://data-visualization-task-web-dev-react.vercel.app/
 >> Web Developer Interview
 Data Visualization Task MANUFAC
 
-> Task description:
+## Task description:
 1. You are expected to implement a line chart and bar chart using React and ECharts for
 React. The entire source code should be in TypeScript. For learning more about ECharts,
 this link can also be useful.
