@@ -36,6 +36,11 @@ Tools used: VS Code!
 yarn create react-app my-app
 ```
 
+## Install the project dependencies:
+```
+yarn install
+```
+
 ### Available Scripts
 In the project directory, you can run:
 ```
