@@ -31,9 +31,10 @@ Tools used: VS Code!
 ## Getting Started with Create React App
 #This project was bootstrapped with [Create React App]
 
-> Get the code
-
-git clone 
+>> Get the code
+```
+git clone https://github.com/chandanhm1999/Data-Visualization-Task-web-dev-react
+```
 
 ## Project setup
 ```
