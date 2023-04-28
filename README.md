@@ -5,6 +5,9 @@ https://data-visualization-task-web-dev-react.vercel.app/
 https://data-visualization-task-web-dev-react.vercel.app/
 ```
 
+![data2](https://user-images.githubusercontent.com/109410990/235132206-af2b266e-6ebc-469f-b02f-6a7930020b92.png)
+![data](https://user-images.githubusercontent.com/109410990/235132238-437c0f35-1e8b-413a-a8be-cbe8f719593b.png)
+
 >> Web Developer Interview
 Data Visualization Task MANUFAC
 
