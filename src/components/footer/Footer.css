@@ -1,0 +1,61 @@
+.cardfooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #333333;
+    color: white;
+    position: relative;
+    top: 198px;
+}
+  
+.cardfooter2 {
+    font-size: 14px;
+}
+  
+@media screen and (max-width: 480px) { /* iPhone 5 */
+    .cardfooter {
+      height: 60px;
+    }
+    
+    .cardfooter2 {
+      font-size: 12px;
+    }
+}
+  
+@media screen and (max-width: 812px) { /* iPhone X */
+    .cardfooter {
+      height: 70px;
+    }
+    
+    .cardfooter2 {
+      font-size: 13px;
+    }
+}
+  
+@media screen and (max-width: 1024px) { /* iPad */
+    .cardfooter {
+      height: 80px;
+    }
+    
+    .cardfooter2 {
+      font-size: 14px;
+    }
+}
+  
+@media screen and (max-width: 1366px) { /* iPad Pro */
+    .cardfooter {
+      height: 90px;
+    }
+    
+    .cardfooter2 {
+      font-size: 15px;
+    }
+}
+  
+@media screen and (min-width: 1367px) { /* General Laptops */
+    .cardfooter2 {
+      font-size: 16px;
+    }
+}
+  
