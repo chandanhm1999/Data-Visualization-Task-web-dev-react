@@ -1,37 +1,60 @@
-# Getting Started with Create React App
+## Deployed Link
+https://data-visualization-task-web-dev-react.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```
+https://data-visualization-task-web-dev-react.vercel.app/
+```
 
-## Available Scripts
+Frontend Developer Internship at Secure Blink Task!
+> To design a responsive one-page web app using React
 
+Project completed with The help of ECharts for React!
+Tools used: VS Code!
+# React JS
+
+## Getting Started with Create React App
+#This project was bootstrapped with [Create React App]
+
+## Project setup
+```
+yarn create react-app my-app
+```
+
+### Available Scripts
 In the project directory, you can run:
+```
+yarn start
+```
 
-### `yarn start`
-
+### Compiles and minifies for production
+```
+yarn build
+```
+Builds the app for production to the `build` folder.\
 Runs the app in the development mode.\
+```
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
 
-The page will reload when you make changes.\
+### Lints and fixes files
+```
+yarn test
+```
+##The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `yarn test`
+### Customize configuration
+See [Configuration Reference](https://reactjs.org/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+yarn eject
+```
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -42,8 +65,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
